@@ -1,4 +1,5 @@
-👋 About Me
+👋 About Me :
+
 Hi, I’m Faisal, a Computer Science undergraduate at Umm Al-Qura University (UQU), currently in my sophomore year.
 I’m passionate about building efficient, scalable, and creative solutions through programming, and I’m continuously expanding my skills in software development, algorithms, and problem-solving.
 
