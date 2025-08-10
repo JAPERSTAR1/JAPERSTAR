@@ -1,29 +1,28 @@
-👋 About Me :
+<div align="center" width="50">
 
-Hi, I’m Faisal, a Computer Science undergraduate at Umm Al-Qura University (UQU), currently in my sophomore year.
-I’m passionate about building efficient, scalable, and creative solutions through programming, and I’m continuously expanding my skills in software development, algorithms, and problem-solving.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-🎯 Interests & Focus
-Programming Languages: Java, C++, Python, and exploring modern frameworks
+![Totals Hits](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR-USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=codeforces.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
-Fields of Interest: Software Engineering, Game Development, and Data Structures
+</div>
 
-Projects: Open-source contributions, personal projects, and academic research
+<hr></hr>
 
-📚 What I’m Working On
-Enhancing my skills in software architecture and clean code practices
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
-Building hands-on projects to apply what I learn in real-world scenarios
-
-Exploring new tools and technologies to stay ahead in the tech field
-
-🌱 Personal Vision
-I aim to become a highly skilled software engineer capable of designing impactful solutions, contributing to the developer community, and pushing the limits of innovation.
-
-💼 Let’s Connect:
-
-📧 Email: puy1234577@gmail.com
-
-🌐 GitHub: https://github.com/JAPERSTAR1
-
-💬 Always open for collaboration and learning opportunities
+```dart
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages" : { "C++", "Java", "Python", "JavaScript" },
+    "Web" : { "HTML", "CSS" }
+  };
+}
