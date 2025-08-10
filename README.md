@@ -1,4 +1,12 @@
-<hr></hr>
+# Hi there 👋  
+
+I’m Faisal, a sophomore Computer Science student at Umm Al-Qura University (UQU), passionate about problem-solving, software development, and building efficient and scalable solutions.  
+Currently, I’m focusing on mastering C++ and Java for algorithms and data structures, as well as expanding my skills in web development using HTML, CSS, and JavaScript.  
+
+I’m always eager to learn, collaborate, and contribute to open-source projects.  
+You can find me here on GitHub sharing my projects, experiments, and learning journey.  
+
+---
 
 <div align="center">
 
