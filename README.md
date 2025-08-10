@@ -3,7 +3,7 @@ Hi, I’m Faisal, a Computer Science undergraduate at Umm Al-Qura University (UQ
 I’m passionate about building efficient, scalable, and creative solutions through programming, and I’m continuously expanding my skills in software development, algorithms, and problem-solving.
 
 🎯 Interests & Focus
-Programming Languages: C++, Python, and exploring modern frameworks
+Programming Languages: Java, C++, Python, and exploring modern frameworks
 
 Fields of Interest: Software Engineering, Game Development, and Data Structures
 
